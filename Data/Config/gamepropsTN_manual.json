@@ -133,5 +133,14 @@
         "DEVICE": "",
         "MANUFACTURER": "Lenovo TB-9707F",
         "MODEL": "Lenovo"
+    },
+    "PACKAGES_OP13": [
+        "com.dfjz.moba"
+    ],
+    "PACKAGES_OP13_DEVICE": {
+        "BRAND": "OnePlus",
+        "DEVICE": "OnePlus 13",
+        "MANUFACTURER": "OnePlus",
+        "MODEL": "PJZ110"
     }
 }
