@@ -142,5 +142,14 @@
         "DEVICE": "OnePlus 13",
         "MANUFACTURER": "OnePlus",
         "MODEL": "PJZ110"
+    },
+    "PACKAGES_12TB": [
+        "com.garena.game.kgvn"
+    ],
+    "PACKAGES_12TB_DEVICE": {
+        "BRAND": "Xiaomi",
+        "DEVICE": "12TB",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "23049RAD8C"
     }
 }
