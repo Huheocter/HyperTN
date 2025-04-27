@@ -1,6 +1,6 @@
 {
   "gmsProps": {
-    "TYPE": "user",
+    "TYPE": "usera",
     "TAGS": "release-keys",
     "ID": "BP22.250325.007",
     "BRAND": "google",
@@ -25,7 +25,7 @@
     "FINGERPRINT": "google/komodo/komodo:15/AP4A.250205.002/12821496:user/release-keys"
   },
   "PixelTablet": {
-    "BRAND": "google",
+    "BRAND": "googlea",
     "BOARD": "tangorpro",
     "MANUFACTURER": "Google",
     "DEVICE": "tangorpro",
