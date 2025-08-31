@@ -135,8 +135,7 @@
         "MODEL": "Lenovo"
     },
     "PACKAGES_OP13": [
-        "com.dfjz.moba",
-        "com.levelinfinite.sgameGlobal.midaspay"
+        "com.dfjz.moba"
     ],
     "PACKAGES_OP13_DEVICE": {
         "BRAND": "OnePlus",
@@ -152,5 +151,14 @@
         "DEVICE": "12TB",
         "MANUFACTURER": "Xiaomi",
         "MODEL": "23049RAD8C"
+        },
+    "PACKAGES_IQN10": [
+        "com.levelinfinite.sgameGlobal.midaspay"
+    ],
+    "PACKAGES_IQN10_DEVICE": {
+        "BRAND": "Vivo",
+        "DEVICE": "IQOO NEO 10",
+        "MANUFACTURER": "Vivo",
+        "MODEL": "V2425A"
     }
 }
