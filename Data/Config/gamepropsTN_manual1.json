@@ -135,7 +135,8 @@
         "MODEL": "Lenovo"
     },
     "PACKAGES_OP13": [
-        "com.dfjz.moba"
+        "com.dfjz.moba",
+        "com.levelinfinite.sgameGlobal.midaspay"
     ],
     "PACKAGES_OP13_DEVICE": {
         "BRAND": "OnePlus",
